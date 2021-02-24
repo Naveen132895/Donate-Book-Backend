@@ -1,4 +1,4 @@
-package com.prograd.service;
+package com.book.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
